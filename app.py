@@ -349,3 +349,4 @@ elif page == "Insights":
     - Higher ratings positively influence commercial success.
     - Certain platform and genre combinations consistently outperform others.
     """)
+
